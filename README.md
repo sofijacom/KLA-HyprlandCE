@@ -5,6 +5,8 @@ FirstRib-KLA build script PLUG files
 
 example use of a .plug file:
 
+```./KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh```
+
 ```./build_firstrib_rootfs.sh arch default amd64 f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug```
 
  *f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug*  builds the **rootfs** for a Arch Linux based Hyprland desktop operating system similar to *KLA-Hyprland*.

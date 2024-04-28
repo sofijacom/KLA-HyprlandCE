@@ -11,13 +11,13 @@
 
 5.Wait for the build to finish.
 
-6.After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs` -- where x.x is your build number
+6.After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs` -- where x.x is your build number.
 
 7.Type in terminal 
 ```
 mksquashfs 07firstrib_rootfs 07 KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512k
 ```
-where x.x is your build number
+where x.x is your build number.
 
 FirstRib-KLA build script 
 

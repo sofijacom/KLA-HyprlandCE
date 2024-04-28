@@ -3,7 +3,7 @@
 
 1.Create a folder KLA-HyprlandCE. typing in the terminal ```mkdir -p KLA-HyprlandCE```
 
-2.Open a terminal in the created folder ```KLA-HyprlandCE``` or go to the folder by typing in the terminal cd KLA-Hyprland
+2.Open a terminal in the created folder ```KLA-HyprlandCE``` or go to the folder by typing in the terminal ```cd KLA-Hyprland```
 
 3.Place the build script  ```KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh```  there
 

@@ -24,7 +24,8 @@ FirstRib-KLA build script
 ```
 ./KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh
 ```
-FirstRib-KLA build script PLUG file
+FirstRib-KLA build script PLUG file.
+
 Example of using a .plug file:
 
 ```

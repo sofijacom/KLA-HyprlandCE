@@ -1,4 +1,4 @@
-# KLA-ПЛУГ
+# KLA- PLUG
 ![Скриншот_24 марта_04-43-49_22640](https://github.com/sofijacom/KLA-Hyprland/assets/107557749/9cb7631c-6fd2-4c3c-9c21-7225ee09fd70)
 
 Файл PLUG сценария сборки FirstRib-KLA

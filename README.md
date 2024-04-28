@@ -19,12 +19,12 @@ mksquashfs 07firstrib_rootfs 07 KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512
 ```
 where x.x is your build number
 
-FirstRib-KLA build script PLUG file
+FirstRib-KLA build script 
 
 ```
 ./KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh
 ```
-
+FirstRib-KLA build script PLUG file
 Example of using a .plug file:
 
 ```

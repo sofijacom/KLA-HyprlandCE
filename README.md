@@ -1,7 +1,7 @@
 # KLA- PLUG
 ![Скриншот_24 марта_04-43-49_22640](https://github.com/sofijacom/KLA-Hyprland/assets/107557749/9cb7631c-6fd2-4c3c-9c21-7225ee09fd70)
 
-1.Create a folder KLA-HyprlandCE. typing in the terminal `mkdir -p KLA-HyprlandCE`
+1.Create a folder `KLA-HyprlandCE` typing in the terminal `mkdir -p KLA-HyprlandCE`
 
 2.Open a terminal in the created folder `KLA-HyprlandCE` or go to the folder by typing in the terminal `cd KLA-Hyprland`
 

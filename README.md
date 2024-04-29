@@ -8,7 +8,7 @@
   
   `cd KLA-HyprlandCE`
 
-3) Place the build script  `KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`  there.
+3) Place the build script  `KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh` in the created folder.
    
 4) Make it executable.`chmod +x KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`
 

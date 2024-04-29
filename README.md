@@ -22,7 +22,7 @@ mksquashfs 07firstrib_rootfs 07 KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512
 ```
 where x.x is your build number.
 
-9) Delete the `07firstrib_rootfs` folder
+9) Delete the `07firstrib_rootfs` folder.
 
 _________________________________________________________________________________
 

@@ -13,7 +13,7 @@
 
 7) Wait for the build to finish.
 
-8) After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs` -- where x.x is your build number.
+8) After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs`  where x.x is your build number.
 
 9) Type in terminal.
 

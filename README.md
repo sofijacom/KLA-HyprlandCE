@@ -9,20 +9,20 @@
    
 4) Make it executable.`chmod +x KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`
 
-6) Enter in terminal `./KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`
+5) Enter in terminal `./KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`
 
-7) Wait for the build to finish.
+6) Wait for the build to finish.
 
-8. After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs`  where x.x is your build number.
+7) After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs`  where x.x is your build number.
 
-9. Type in terminal
+8) Type in terminal
 
 ```
 mksquashfs 07firstrib_rootfs 07 KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512k
 ```
 where x.x is your build number.
 
-10) Delete the `07firstrib_rootfs` folder
+9) Delete the `07firstrib_rootfs` folder
 
 FirstRib-KLA build script 
 

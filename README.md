@@ -15,7 +15,8 @@
 
 8) After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs` -- where x.x is your build number.
 
-9) Type in terminal 
+9) Type in terminal
+
 ```
 mksquashfs 07firstrib_rootfs 07 KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512k
 ```

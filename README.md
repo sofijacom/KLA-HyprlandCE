@@ -15,7 +15,7 @@
 
 7) After the build is complete to package `07firstrib_rootfs` into `07KLA-HyprlandCE-x.x.sfs`  where x.x is your build number.
 
-8) Type in terminal
+8) Type in terminal.
 
 ```
 mksquashfs 07firstrib_rootfs 07 KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512k
@@ -24,7 +24,9 @@ where x.x is your build number.
 
 9) Delete the `07firstrib_rootfs` folder
 
-FirstRib-KLA build script 
+_________________________________________________________________________________
+
+FirstRib-KLA build script. 
 
 ```
 ./KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh

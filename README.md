@@ -5,7 +5,7 @@
 
 2) Open a terminal in the created folder `KLA-HyprlandCE` or go to the folder by typing in the terminal `cd KLA-HyprlandCE`
 
-3) Place the build script  `KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`  there
+3) Place the build script  `KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`  there.make it executable.
 
 4) Enter in terminal `./KLbuild_Arch_Hyprland_wayland_pipewire_KLA-HyprlandCE.sh`
 

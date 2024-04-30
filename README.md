@@ -1,5 +1,7 @@
 # Assembly of KLA-HyprlandCE
 
+![2024-04-29_23-42](https://github.com/sofijacom/KLA-HyprlandCE/assets/107557749/fe853aab-d7c9-4bb8-947e-b1172cfd0059)
+
 ![Скриншот_24 марта_04-43-49_22640](https://github.com/sofijacom/KLA-Hyprland/assets/107557749/9cb7631c-6fd2-4c3c-9c21-7225ee09fd70)
 
 1) Create a folder `KLA-HyprlandCE` typing in the terminal `mkdir -p KLA-HyprlandCE`

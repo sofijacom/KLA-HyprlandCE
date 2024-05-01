@@ -1,6 +1,6 @@
 # Assembly of KLA-HyprlandCE
 
-![2024-04-29_23-42](https://github.com/sofijacom/KLA-HyprlandCE/assets/107557749/fe853aab-d7c9-4bb8-947e-b1172cfd0059)
+![Screenshot_01-мая_13-58-16_22010](https://github.com/sofijacom/KLA-HyprlandCE/assets/107557749/7b55db00-8611-4931-af58-ecf956e4ea35)
 
 ##
 ![Скриншот_24 марта_04-43-49_22640](https://github.com/sofijacom/KLA-Hyprland/assets/107557749/9cb7631c-6fd2-4c3c-9c21-7225ee09fd70)

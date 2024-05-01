@@ -45,6 +45,6 @@ Example of using a .plug file:
 ./build_firstrib_rootfs.sh Arch default amd64 f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug
 ```
 
-***f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug***  builds a  ***(root filesystem)***  for the Arch Linux-based Hyprland desktop operating system, similar to ***KLA-Hyprland***.
+***f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug***  builds a  ***(root filesystem)***  for the Arch Linux-based Hyprland desktop operating system, similar to **KLA-Hyprland**.
 
 To create a complete distribution, all other utilities, tools and configurations are downloaded from a centralized repository and installed as a .tar.gz file.

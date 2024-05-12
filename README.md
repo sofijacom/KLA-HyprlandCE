@@ -24,7 +24,7 @@
 8) Type in terminal.
 
 ```
-mksquashfs 07firstrib_rootfs 07 KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512k
+mksquashfs 07firstrib_rootfs 07KLA-HyprlandCE-x.x.sfs -noappend -comp xz -b 512k
 ```
   - where x.x is your build number.
 

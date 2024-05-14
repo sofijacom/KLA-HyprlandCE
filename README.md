@@ -48,3 +48,7 @@ Example of using a .plug file:
 ***f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug***  builds a  ***(root filesystem)***  for the Arch Linux-based Hyprland desktop operating system, similar to **KLA-Hyprland**.
 
 To create a complete distribution, all other utilities, tools and configurations are downloaded from a centralized repository and installed as a .tar.gz file.
+
+<p align="center">	
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/gray0_ctp_on_line.svg?sanitize=true" />
+</p>

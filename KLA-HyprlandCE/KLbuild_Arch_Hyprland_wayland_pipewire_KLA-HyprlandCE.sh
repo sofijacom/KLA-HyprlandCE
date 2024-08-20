@@ -14,10 +14,10 @@ wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/build_fir
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/Arch-KLA-Hyprland/Plugin/f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug
 
 # Download the boot components:
-wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/initrd.gz -O initrd.gz  # FR skeleton initrd
-wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/vmlinuz                 # vmlinuz
-wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/00zdrv_upup_22.04.sfs   # modules
-wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/01fdrv_upup_22.04.sfs   # firmware
+wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/initrd-latest.gz -O initrd.gz  # FR skeleton initrd
+wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/vmlinuz
+wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/00zdrv_vanilladpup_10.0.30.sfs  # modules
+wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/01fdrv_vanilladpup_10.0.30.sfs  # firmware
 
 # Some useful FirstRib utilities in case you want to modify the initrd or the 07firstrib_rootfs
 # All these utilities have a --help option

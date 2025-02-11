@@ -5,6 +5,12 @@
 ##
 ![Скриншот_24 марта_04-43-49_22640](https://github.com/sofijacom/KLA-Hyprland/assets/107557749/9cb7631c-6fd2-4c3c-9c21-7225ee09fd70)
 
+<br><div align="center"><img width="12%" src="https://github.com/user-attachments/assets/c67f5b61-74d2-44fe-ba83-ae973402ac0a"/><br></div>
+
+<a id="installation"></a>  
+<img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>
+---
+
 1) Create a folder `KLA-HyprlandCE` typing in the terminal `mkdir -p KLA-HyprlandCE`
 
 2) Open a terminal in the created folder `KLA-HyprlandCE` or go to the folder by typing in the terminal

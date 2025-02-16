@@ -1,4 +1,4 @@
-# 💧 _Assembly of KLA-HyprlandCE_ 💧
+# 💧 _Assembly of KLA-HyprlandCE_
 
 ![Screenshot_01-мая_13-58-16_22010](https://github.com/sofijacom/KLA-HyprlandCE/assets/107557749/7b55db00-8611-4931-af58-ecf956e4ea35)
 

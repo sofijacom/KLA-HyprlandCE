@@ -3,8 +3,6 @@
 ![Screenshot_01-мая_13-58-14_22010](https://github.com/user-attachments/assets/573201d2-1ba5-4ff8-af40-93e8e66e92f4)
 
 
-![Screenshot_01-мая_13-58-16_22010](https://github.com/sofijacom/KLA-HyprlandCE/assets/107557749/7b55db00-8611-4931-af58-ecf956e4ea35)
-
 ##
 ![Скриншот_24 марта_04-43-49_22640](https://github.com/sofijacom/KLA-Hyprland/assets/107557749/9cb7631c-6fd2-4c3c-9c21-7225ee09fd70)
 

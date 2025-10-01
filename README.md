@@ -3,9 +3,6 @@
 ![Screenshot_01-мая_13-58-14_22010](https://github.com/user-attachments/assets/573201d2-1ba5-4ff8-af40-93e8e66e92f4)
 
 
-##
-![Скриншот_24 марта_04-43-49_22640](https://github.com/sofijacom/KLA-Hyprland/assets/107557749/9cb7631c-6fd2-4c3c-9c21-7225ee09fd70)
-
 <br><div align="center"><img width="12%" src="https://github.com/user-attachments/assets/c67f5b61-74d2-44fe-ba83-ae973402ac0a"/><br></div>
 
 <a id="installation"></a>  

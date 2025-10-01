@@ -1,9 +1,13 @@
+<div align="center">
+   
 # _Assembly of KLA-HyprlandCE_
 
 ![Screenshot_01-мая_13-58-14_22010](https://github.com/user-attachments/assets/573201d2-1ba5-4ff8-af40-93e8e66e92f4)
 
 
 <br><div align="center"><img width="12%" src="https://github.com/user-attachments/assets/c67f5b61-74d2-44fe-ba83-ae973402ac0a"/><br></div>
+
+<div align="left">
 
 <a id="installation"></a>  
 <img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>

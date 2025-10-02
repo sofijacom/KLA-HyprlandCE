@@ -13,6 +13,12 @@ wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/build_fir
 # Arch Linux build plugin used during the build (you can add to this plugin for whatever extras you want in your build)
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/Arch-KLA-Hyprland/Plugin/f_00_Arch_amd64-KLA-Hyprland_Wayland_pipewire.plug
 
+# Download the boot components:
+# wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/initrd-latest.gz -O initrd.gz
+# wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/vmlinuz
+# wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/00zdrv_vanilladpup_10.0.30.sfs
+# wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA-Hyprland/huge_kernels/01fdrv_vanilladpup_10.0.30.sfs
+
 wget -c https://github.com/sofijacom/linux-6.11.1.arch1-1-x86_64/releases/download/linux-6.11.7/00modules_6.11.7.sfs
 wget -c https://github.com/sofijacom/linux-6.11.1.arch1-1-x86_64/releases/download/linux-6.11.7/01firmware_6.11.7.sfs
 wget -c https://github.com/sofijacom/linux-6.11.1.arch1-1-x86_64/releases/download/linux-6.11.7/initrd.gz

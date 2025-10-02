@@ -36,7 +36,7 @@ wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/restore-s
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/FRextract_kernel.sh && chmod +x FRextract_kernel.sh
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/FRmake_initrd.sh && chmod +x FRmake_initrd.sh
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/FRmake_initrd_dep.sh && chmod +x FRmake_initrd_dep.sh
-#wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/w_init
+wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLA_modules/w_init
 
 # Optional addon layers
 
